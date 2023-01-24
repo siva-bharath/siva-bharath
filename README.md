@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siva-bharath
-- 👀 I’m interested in developing and deploying software for autonomous vehicles/robotic manipulators 
-- 💞️ I’m looking to collaborate on developing solutions using OpenCV, C++ and ROS for robotic systems.
+- 👀 I’m interested in developing software for computer vision and deep learning applications.  
+- 💞️ I’m looking to collaborate on developing solutions using PyTorch, OpenCV,CNN's, C++ .
 - 📫 How to reach me ...siva.bharath44@gmail.com
 
 <!---
